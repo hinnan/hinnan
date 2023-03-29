@@ -1,6 +1,6 @@
-### Hi Hinnan here 👋 I am an enthusiastic Mobiel app developer with a strong foundation indeveloping apps. I have more than several years of experience in creating robus, efficient and powerfu appications using modern tehcnologies in the industry. 
+### Hi Hinnan here 👋 I am an enthusiastic Mobiel app developer with a strong foundation in developing apps.
 
-My key skills include:
+### My key skills include:
 - Team Lead
 - Problem solving
 - Analytical thinking
@@ -8,7 +8,7 @@ My key skills include:
 - Provided dedicated support
 - Weekly report
 
-My Technical Strengths are:
+### My Technical Strengths are:
 - Flutter Development
 - Android Deveopement
 - Cross-Platform Mobile Applications
