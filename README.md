@@ -1,4 +1,6 @@
-### Hi Hinnan here 👋 I am an enthusiastic Mobiel app developer with a strong foundation in developing apps.
+### Hi Hinnan here 👋 
+
+I am an enthusiastic Mobiel app developer with a strong foundation in developing apps.
 
 ### My key skills include:
 - Team Lead
